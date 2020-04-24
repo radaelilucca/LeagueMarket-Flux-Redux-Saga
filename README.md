@@ -7,15 +7,14 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/radaelilucca/
-LeagueMarket-ArquiteturaFlux">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/radaelilucca/LeagueMarket-ArquiteturaFlux">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/radaelilucca/LeagueMarket-ArquiteturaFlux">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-10/commits/master">
+ 
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/radaelilucca/
 LeagueMarket-ArquiteturaFlux">
-  </a>
+
 
 </br>
 <h5 align="center">

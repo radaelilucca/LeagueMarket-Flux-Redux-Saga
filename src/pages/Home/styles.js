@@ -27,35 +27,40 @@ export const ProductList = styled.ul`
       text-align: left;
     }
 
-    p {
+    .desc {
       font-size: 16px;
       line-height: 18px;
       margin-top: 6px;
       margin-bottom: 10px;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      color: #41414d;
     }
 
     span {
       font-size: 22px;
-      line-height: 30px;
+      line-height: 32px;
       color: #0d2f41;
       display: flex;
       align-items: center;
       margin-bottom: 20px;
+    }
 
-      .coins {
-        height: 20px;
-        width: 20px;
-        margin-top: 0;
-        margin-bottom: 0;
-        margin-right: 10px;
-        margin-left: 0;
-        border: 0;
-      }
+    .coins {
+      height: 20px;
+      width: 20px;
+      margin-top: 0;
+      margin-bottom: 0;
+      margin-right: 10px;
+      margin-left: 0;
+      border: 0;
     }
 
     button {
       background: #fece66;
       border-radius: 8px;
+
       border: 0;
       overflow: hidden;
       margin-top: auto;

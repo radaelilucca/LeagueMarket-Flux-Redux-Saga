@@ -1,17 +1,16 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { ProductList } from "./styles";
 
 import { MdAddShoppingCart } from "react-icons/md";
 
-import * as CartActions from "../../store/modules/cart/actions";
-
-import api from "../../services/api";
+import { ProductList } from "./styles";
 import coins from "../../assets/images/coins.svg";
+
+import * as CartActions from "../../store/modules/cart/actions";
+import api from "../../services/api";
 
 export default function Home() {
   const [products, setProducts] = useState([]);
-
   const dispatch = useDispatch();
 
   const amount = useSelector((state) =>
@@ -40,10 +39,15 @@ export default function Home() {
         <li key={product.id}>
           <img src={product.image} alt={product.title} />
           <strong>{product.title}</strong>
-          <p> {product.description} </p>
+          <p className="desc"> {product.description} </p>
 
           <span>
-            <img className="coins" src={coins} /> {product.price}
+            <img
+              className="coins"
+              src={coins}
+              alt={`Price: ${product.price}`}
+            />{" "}
+            {product.price}
           </span>
 
           <button type="button" onClick={() => handleAddProduct(product.id)}>

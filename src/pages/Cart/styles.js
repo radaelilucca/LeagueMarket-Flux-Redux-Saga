@@ -25,6 +25,10 @@ export const Container = styled.div`
       }
     }
   }
+
+  .noItemsImage {
+    margin: 0 35%;
+  }
 `;
 
 export const ProductTable = styled.table`
@@ -111,5 +115,24 @@ export const Total = styled.div`
   .coinsTotal {
     height: 20px;
     margin: 0 5px;
+  }
+`;
+
+export const NoItems = styled.div`
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex: 1;
+
+  h1 {
+    margin: 12px;
+    color: #41414d;
+  }
+
+  button {
+    font-size: 20px;
+    color: #41414d;
   }
 `;

@@ -28,43 +28,43 @@
   "products": [
     {
       "id": 1,
-      "title": "Canhão Fumegante",
-      "description": "Chance de Acerto Crítico, Velocidade de Ataque e Aumento de Alcance.",
+      "title": "Rapid Firecannon",
+      "description": "Critical Strike Chance, Attack Speed and Bonus Range.",
       "price": 2600,
       "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/4/48/Rapid_Firecannon_item_HD.png/revision/latest?cb=20180326192026"
     },
     {
       "id": 2,
-      "title": "Hidra Raivosa",
-      "description": "Dano de Ataque, Roubo de Vida e Dano em Área.",
+      "title": "Ravenous Hydra",
+      "description": "Attack Damage, Life Steal and AOE Damage.",
       "price": 3500,
       "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/9/90/Ravenous_Hydra_item_HD.png/revision/latest?cb=20180325162017"
     },
     {
       "id": 3,
-      "title": "Dançarina Fantasma",
-      "description": "Chance de Acerto Crítico, Velocidade de Ataque e Escudo Protetor.",
+      "title": "Phantom Dancer",
+      "description": "Critical Strike Chance, Attack Speed e Lifesaver Shield.",
       "price": 2600,
       "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/5/5e/Phantom_Dancer_item_HD.png/revision/latest?cb=20180326192000"
     },
     {
       "id": 4,
-      "title": "Dança da Morte",
-      "description": "Dano de Ataque, Roubo de Vida e Redução de Dano Recebido.",
+      "title": "Death's Dance",
+      "description": "Attack Damage, Life Steal and Damage suffered converted to bleeding..",
       "price": 3600,
       "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/7/74/Death%27s_Dance_item_HD.png/revision/latest?cb=20180325192111"
     },
     {
       "id": 5,
-      "title": "Lembrete Mortal",
-      "description": "Dano de Ataque, Penetração de Armadura e Feridas Dolorosas.",
+      "title": "Mortal Reminder",
+      "description": "Attack Damage, Armor Penetration and Grievous Wounds.",
       "price": 2800,
       "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/f/f3/Mortal_Reminder_item_HD.png/revision/latest?cb=20180325205317"
     },
     {
       "id": 6,
       "title": "Morellonomicon",
-      "description": "Poder de Habilidade, Penetração Mágica e Feridas Dolorosas.",
+      "description": "Abillity Power, Magic Penetration and Grievous Wounds.",
       "price": 3000,
       "image": "https://vignette.wikia.nocookie.net/leagueoflegends/images/1/1e/Pox_Arcana_item_HD.png/revision/latest?cb=20180325161821"
     }

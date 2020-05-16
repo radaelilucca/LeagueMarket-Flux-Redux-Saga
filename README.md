@@ -26,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/radaelilucca/LeagueMarket-ArquiteturaFlux/master/ReadmeAssets/Home.png" width=990px />
 
 <p align="center">
-<img src="https://github.com/radaelilucca/LeagueMarket-ArquiteturaFlux/blob/master/ReadmeAssets/Cart.png?raw=true" width=300px />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github.com/radaelilucca/LeagueMarket-ArquiteturaFlux/blob/master/ReadmeAssets/empty%20cart.png?raw=true" width=390px />
+<img src="https://github.com/radaelilucca/LeagueMarket-ArquiteturaFlux/blob/master/ReadmeAssets/Cart.png?raw=true" width=390px />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github.com/radaelilucca/LeagueMarket-ArquiteturaFlux/blob/master/ReadmeAssets/empty%20cart.png?raw=true" width=390px />
 </p>
 
 ## :rocket: Tecnologias

@@ -3,7 +3,7 @@
  </h1>
 
 <h4 align="center">
-   Praticando conceitos da Arquitetura Flux - Redux, Redux-Saga 
+   Praticando conceitos da Arquitetura Flux - Redux e Redux-Saga 
 </h4>
 
 <p align="center">
